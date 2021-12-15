@@ -8,3 +8,9 @@ applications:
   stack: cflinuxfs3
   env:
     GOPACKAGENAME: github.com/alphagov/paas-prometheus-exporter
+    USERNAME: <Username>
+    PASSWORD: <Password>
+    API_ENDPOINT: # https://api.london.cloud.service.gov.uk For UK / https://api.cloud.service.gov.uk For Ireland
+    AUTH_USERNAME: admin
+    AUTH_PASSWORD: <Password>
+ # More Manifest configuration at https://docs.developer.swisscom.com/devguide/deploy-apps/manifest.html
