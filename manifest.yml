@@ -11,6 +11,6 @@ applications:
     USERNAME: <Username>
     PASSWORD: <Password>
     API_ENDPOINT: # https://api.london.cloud.service.gov.uk For UK / https://api.cloud.service.gov.uk For Ireland
-    AUTH_USERNAME: admin
+    AUTH_USERNAME: <Username>
     AUTH_PASSWORD: <Password>
  # More Manifest configuration at https://docs.developer.swisscom.com/devguide/deploy-apps/manifest.html
